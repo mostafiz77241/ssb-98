@@ -1,0 +1,200 @@
+/*  font-family: 'Playfair Display', serif; */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+ background-color:#343A40 ;
+}
+header nav{
+    width: 50%;
+    margin: auto;
+
+}
+header nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+
+}
+header nav ul li{
+
+}
+header nav ul li img{
+  width: 150px;
+  margin-top: 15px;
+
+}
+header nav ul li a{
+    text-decoration: none;
+    text-transform: capitalize;
+    color: #fff;
+    font-weight: 600;
+    font-family: 'Playfair Display', serif;
+
+}
+.banner_img{
+    background-image: url(../images/pexels-bich-tran-669996.jpg);
+    height: 90vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+}
+.main_content{
+    width: 50%;
+    margin: auto;
+    
+}
+.main_text{
+ width: 80%;
+ margin: auto;
+ 
+}
+.main_text button{
+   margin-top: 20px;
+   color: #fff;
+   border-radius: 30px;
+   padding: 10px;
+   border: 1px solid#0be881;
+   background-color: #0be881;
+   cursor: pointer;
+   
+}
+.main_text h1{
+    color: #fff;
+    text-transform: uppercase;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 15px;
+    
+
+
+}
+.main_text span{
+    color: #6DBD6D;
+}
+.main_text p{
+    color: #fff;
+    text-transform: capitalize;
+    font-weight: 500;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 10px;
+    
+
+}
+.main_text ul{
+    list-style: none;
+
+
+}
+.main_text ul li{
+   
+
+}
+.main_text ul li a{
+    color: #fff;
+    text-decoration: none;
+    margin-top: 20px;
+
+}
+.main_text ul li a i{
+   
+
+}
+.main_text button{
+    background-color: #6DBD6D;
+    border: none;
+   text-transform: uppercase;
+    width: 20%;
+    font-weight: 800;
+    color: #fff;
+    margin-top: 15px;
+    
+
+}
+.mein_from{
+    width: 40%;
+    margin: auto;
+
+
+}
+.mein_from{
+
+}
+.from_content{
+    width: 60%;
+    background-color: #6DBD6D;
+    padding: 50px 15px;
+
+}
+.from_content form{
+    width: 50;
+   
+}
+   
+
+.from_content h1{
+  color: #fff;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Playfair Display', serif;
+
+}
+.mein_from input{
+    width: 95%;
+    background: transparent;
+    border: none;
+    background-color: #fff;
+    text-transform: capitalize;
+     margin: 6px;
+     padding-bottom: 8px;
+     padding-top: 8px;
+    
+}
+.from_content p{
+    color: #fff;
+   text-transform: capitalize;
+   margin-bottom: 8px;
+   font-family: 'Playfair Display', serif;
+   display: flex;
+   align-items: center;
+
+}
+.from_content h2{
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: capitalize;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 8px;
+    
+}
+.mein_from input[type="submit"]{width:100%; background-color:#27ae60; text-transform: capitalize; font-weight: 600;color: #fff; }
+.mein_from input[type="text"]{
+    padding:8px;
+          
+}
+.mein_from input[type="email"]{
+    padding: 8px;
+}
+.mein_from input[type="password"]{
+    padding: 8px;
+}
+.mein_from input[type="phone number"]{
+    padding: 8px;
+
+}
+
+  
+
+ 
+    
+
